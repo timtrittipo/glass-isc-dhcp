@@ -29,7 +29,7 @@
   * [Glass Configuration](#glass-configuration)
   * [Glass Process Keepalive](#glass-process-keepalive)
   * [Secure your Server](#secure-your-server)
-    + [iptables (Recommended)](#iptables--recommended-)
+    + [iptables (Recommended)](#iptables-recommended)
   * [Building dhcpd-pools (Optional)](#building-dhcpd-pools-optional)
 - [Glass API](#glass-api-1)
   * [Use Cases](#use-cases)
